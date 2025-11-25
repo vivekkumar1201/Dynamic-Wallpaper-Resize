@@ -2,7 +2,7 @@
 
 <img width="3012" height="1552" alt="image" src="https://github.com/user-attachments/assets/6f746790-6bdc-42b3-ab36-b826f4100ebc" />
 
-# Dynamic Wallpaper Resize 🍌
+# Dynamic Wallpaper Resize
 
 **Dynamic Wallpaper Resize** is a AI-powered image editor designed to transform your photos into perfect wallpapers for any device.
 
